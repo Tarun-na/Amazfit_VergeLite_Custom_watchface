@@ -1,0 +1,68 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Date": {
+    "MonthAndDay": {
+      "Separate": {
+        "Day": {
+          "TopLeftX": 287,
+          "TopLeftY": 166,
+          "BottomRightX": 313,
+          "BottomRightY": 194,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
+          "ImageIndex": 4,
+          "ImagesCount": 10
+        }
+      },
+      "TwoDigitsMonth": true,
+      "TwoDigitsDay": false
+    }
+  },
+  "AnalogDialFace": {
+    "Hours": {
+      "OnlyBorder": false,
+      "Color": 0,
+      "CenterOffset": {
+        "X": 0,
+        "Y": 0
+      },
+      "Image": {
+        "X": 16,
+        "Y": 130,
+        "ImageIndex": 1
+      }
+    },
+    "Minutes": {
+      "OnlyBorder": false,
+      "Color": 0,
+      "CenterOffset": {
+        "X": 0,
+        "Y": 0
+      },
+      "Image": {
+        "X": 15,
+        "Y": 173,
+        "ImageIndex": 2
+      }
+    },
+    "Seconds": {
+      "OnlyBorder": false,
+      "Color": 0,
+      "CenterOffset": {
+        "X": 0,
+        "Y": 0
+      },
+      "Image": {
+        "X": 9,
+        "Y": 179,
+        "ImageIndex": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+*_packed.bin
+*_static.png
+*_static_*.png
+*_animated.gif
